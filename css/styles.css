@@ -1,11 +1,13 @@
 /* Cascading style sheet  */
-
-h1{
-    align-self: center;
-    color: greenyellow;
-    background-color: darkcyan;
+ 
+#my1{
+    color: lightyellow;
 }
+.header{
+    
+    padding: 20px;
+     text-align: center top;
+     background-color: #1abc9c;
+     font-size: 20;
 
-h2{
-    color: rgb(121, 121, 121);
-}
+ }
