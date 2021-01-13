@@ -1,13 +1,11 @@
 /* Cascading style sheet  */
 
 h1{
-    color: green;
+    align-self: center;
+    color: greenyellow;
+    background-color: darkcyan;
 }
 
-/* a:hover{
-    background-color: coral;
-} */
-
-a:visited{
-    color: pink;
+h2{
+    color: rgb(121, 121, 121);
 }
